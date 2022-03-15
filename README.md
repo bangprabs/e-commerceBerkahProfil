@@ -1,64 +1,86 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/Banner%20Berkah%20Profil.png" style="width: 40%;" />
+<p>Halo, ini adalah aplikasi Laundry yang dibangun dengan cinta (love). Aplikasi ini sudah bisa multi toko loh, alias kamu bisa membuat cabang laundry.<br>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+## Requirements
+
+* PHP 7.3 or higher
+* Database (eg: MySQL)
+* Web Server (eg: Apache, Nginx, IIS)
+    
+## Framework
+
+Laundry dibangun menggunakan [Laravel](http://laravel.com), the best existing PHP framework, as the foundation framework.
+
+## Installation
+
+* Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
+* Clone the repository: `git clone https://github.com/andes2912/laundry.git`
+* Install dependencies: `composer install ; npm install ; npm run dev`
+* Run `cp .env.example .env` for create .env file
+* Run `php artisan migrate --seed` for migration database
+* Run `php artisan storage:link` for create folder storage
+* Detail login, Email : `admin@laundry.com` Password `123456`
+* Run `php artisan queue:listen` for run queue
+    
+Note : Aplikasi ini akan terus saya update.<br>
+Kalau ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com</b>
 </p>
 
-## About Laravel
+## Package
+- [IndoBank](https://github.com/andes2912/indobank) package Laravel untuk menyimpan data Nama Bank yang ada di Indonesia
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Fitur Release
+ #### [Versi 3.x](https://github.com/andes2912/laundry/tree/3.x)
+   #### Administrator
+   * Dashboard Administrator
+   * Tambah User Karyawan
+   * Lihat data transaksi
+   * Data Finance
+   * Data Harga
+   * Atur target laundry
+   * Ubah thema (untuk saat ini hanya ada Dark & White)
+   * Data Bank
+   * Setting Notifikasi Email, Telegram dan WhatsAapp
+   * Dokumentasi
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+   #### Karyawan
+   * Dashboard Karyawan
+   * Data order masuk
+   * Data customer
+   * Tambah customer
+   * Tambah transaksi Laundry
+   * Laporan
+   * Ubah thema (untuk saat ini hanya ada Dark & White)
 
-## Learning Laravel
+   #### Customer
+   * Dashboard Customer
+   * Ubah thema (untuk saat ini hanya ada Dark & White)
+   
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Sponsors
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Support E-Laundry by becoming a sponsor on [Saweria](https://saweria.co/andes2912). Your logo will show up here with a link to your website.
 
-## Laravel Sponsors
+## Any Questions ?
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Please contact me on [Andri Desmana](mailto:andridesmana29@outlook.com?subject=[GitHub]%20Questesion%20Pap!Kos) or [Telegram](https://t.me/andridesmana)
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Dashboard Administrator
+<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Dashboard%20Admin%20-%20Laundry.png" />
+
+## Page Finane Administrator
+<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Finance%20Admin%20-%20Laundry.png" />
+
+## Page Harga Laundry Administrator
+<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Harga%20Laundry%20Admin%20-%20Laundry.png" />
+
+## Dashboard Karyawan
+<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Dashboard%20Karyawan%20-%20Laundry.png" />
+
+## Page Pemesanan Laundry Karyawan
+<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Add%20Order%20-%20Laundry.png" />
