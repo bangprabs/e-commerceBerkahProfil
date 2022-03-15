@@ -28,7 +28,7 @@ Kalau ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com<
 </p>
 
 ## Package
-- [IndoBank](https://github.com/andes2912/indobank) package Laravel untuk menyimpan data Nama Bank yang ada di Indonesia
+- [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) package Laravel untuk seeding data kodepos
 
 ## You can access me at
 
@@ -47,14 +47,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Dashboard Administrator
 <img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/home%20admin.png" />
 
-## Page Finane Administrator
-<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Finance%20Admin%20-%20Laundry.png" />
+## Dashboard Summary Reporting
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/home%20ringkasan.png" />
 
-## Page Harga Laundry Administrator
-<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Harga%20Laundry%20Admin%20-%20Laundry.png" />
+## Page Home User
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/homescreen.png" />
 
-## Dashboard Karyawan
-<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Dashboard%20Karyawan%20-%20Laundry.png" />
-
-## Page Pemesanan Laundry Karyawan
-<img src="https://github.com/andes2912/laundry/blob/2.x/public/images/v2.x/Page%20Add%20Order%20-%20Laundry.png" />
+## Page Detail Product
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/detail.png" />
