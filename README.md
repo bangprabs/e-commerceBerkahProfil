@@ -31,9 +31,9 @@ Kalau ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com<
 
 ## You can access me at
 
-Instagram : <a href="https://www.instagram.com/prabowo.dev/" target="_blank">https://www.instagram.com/prabowo.dev/</a>
-Facebook :  <a href="https://www.facebook.com/apawowo" target="_blank">https://www.facebook.com/apawowo</a> 
-LinkedIn : <a href="https://www.linkedin.com/in/bangprabs/" target="_blank">https://www.linkedin.com/in/bangprabs/</a>  
+Instagram : <a href="https://www.instagram.com/prabowo.dev/" target="_blank">https://www.instagram.com/prabowo.dev/</a><br>
+Facebook :  <a href="https://www.facebook.com/apawowo" target="_blank">https://www.facebook.com/apawowo</a> <br>
+LinkedIn : <a href="https://www.linkedin.com/in/bangprabs/" target="_blank">https://www.linkedin.com/in/bangprabs/</a>  <br>
 
 ## Any Questions ?
 
