@@ -1,4 +1,5 @@
-<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/Banner%20Berkah%20Profil.png" style="width: 90%;" />
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/Banner%20Berkah%20Profil.png" style="width: 90%; display: block;
+    margin: 0 auto;" />
 <p>Halo, ini adalah aplikasi Laundry yang dibangun dengan cinta (love). Aplikasi ini sudah bisa multi toko loh, alias kamu bisa membuat cabang laundry.<br>
 
 ## Requirements
