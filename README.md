@@ -1,4 +1,4 @@
-<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/Banner%20Berkah%20Profil.png" />
+<img src="https://github.com/bangprabs/e-commerceBerkahProfil/blob/master/img_starter_berkahapps/Berkah%20Commerce.png" />
 <p>Halo, aplikasi ini merupakan seubah platform belanja online B2C dengan menjual ornamen Lis Profil, Batu Alam serta Roster.<br>
 
 ## Requirements
