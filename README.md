@@ -23,7 +23,7 @@ Berkah Profil E-Commerce dibangun menggunakan [Laravel](http://laravel.com), the
 * Run `php artisan queue:listen` for run queue
     
 Note : Aplikasi ini sebisa mungkin akan saya update secara berkala.<br>
-Kalau ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com</b>
+Kalau ada pertanyaan bisa kontak aku di email ini <b>bangprabs@gmail.com</b>
 </p>
 
 ## Package
